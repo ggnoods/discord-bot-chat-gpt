@@ -4,3 +4,4 @@ By inviting the bot and using its features (commands, welcome system) are you ag
 
 You acknowledge that you have the priviledge to use the bot freely on any Discord Server (Server) you share with it, that you can invite it to any Server that you have "Manage Server" rights for and that this priviledge might get revoked for you, if you're subject of breaking the terms and/or policy of this bot, or the Terms of Service, Privacy Policy and/or Community Guidelines of Discord Inc.
 
+i am going to work on this again please test it out and tell me things to add/ change about it 
